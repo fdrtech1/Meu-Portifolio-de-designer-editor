@@ -901,9 +901,9 @@
   .bxl-docker:before {
     content: "\e928";
   }
-  .bxl-dribbble:before {
+  /* .bxl-dribbble:before {
     content: "\e929";
-  }
+  } */
   .bxl-dropbox:before {
     content: "\e92a";
   }
@@ -1303,9 +1303,9 @@
   .bx-aperture:before {
     content: "\e9ae";
   }
-  .bx-arch:before {
+  /* .bx-arch:before {
     content: "\e9af";
-  }
+  } */
   .bx-archive:before {
     content: "\e9b0";
   }
@@ -2452,9 +2452,9 @@
   .bx-laugh:before {
     content: "\eb2d";
   }
-  .bx-layer:before {
+  /* .bx-layer:before {
     content: "\eb2e";
-  }
+  } */
   .bx-layer-minus:before {
     content: "\eb2f";
   }
@@ -3154,9 +3154,9 @@
   .bx-slider-alt:before {
     content: "\ec17";
   }
-  .bx-slideshow:before {
+  /* .bx-slideshow:before {
     content: "\ec18";
-  }
+  } */
   .bx-smile:before {
     content: "\ec19";
   }
@@ -3256,9 +3256,9 @@
   .bx-table:before {
     content: "\ec39";
   }
-  .bx-tachometer:before {
+  /* .bx-tachometer:before {
     content: "\ec3a";
-  }
+  } */
   .bx-tag:before {
     content: "\ec3b";
   }
@@ -4369,9 +4369,9 @@
   .bxs-fast-forward-circle:before {
     content: "\edac";
   }
-  .bxs-file:before {
+  /* .bxs-file:before {
     content: "\edad";
-  }
+  } */
   .bxs-file-archive:before {
     content: "\edae";
   }

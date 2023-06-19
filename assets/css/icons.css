@@ -1,0 +1,69 @@
+.bx-tachometer::before,
+.bx-file::before,
+.bxl-dribbble::before, 
+.bx-layer::before, 
+.bx-slideshow::before, 
+.bx-arch::before {
+    padding: 15px;
+    background-color: #f5f5f5;
+    border-radius: 10px;
+    display: grid;
+    place-content: center;
+    transition: 600ms;
+}
+
+.bx-tachometer:hover::before,
+.bx-file:hover::before,
+.bxl-dribbble:hover::before,
+.bx-layer:hover::before,
+.bx-slideshow:hover::before,
+.bx-arch:hover::before{
+    transform: scale(1.1);
+}
+
+.bx-tachometer::before {
+    content: url(../img/icones/adobe-after-effects-svgrepo-com.svg) !important;
+}
+
+.bx-tachometer:hover::before {
+    background-color: #9999ff;
+}
+
+.bx-file::before {
+    content: url(../img/icones/adobe-illustrator-svgrepo-com.svg);
+}
+
+.bx-file:hover::before{
+    background-color: #ffa76e;
+}
+
+.bxl-dribbble::before {
+    content: url(../img/icones/vscode-svgrepo-com.svg);
+}
+
+.bxl-dribbble:hover::before {
+    background-color: #8bc1ff;
+}
+
+.bx-layer::before {
+    content: url(../img/icones/adobe-photoshop-svgrepo-com.svg);
+}
+
+.bx-layer:hover::before{
+    background-color: #158ce3;
+}
+
+.bx-slideshow::before {
+    content: url(../img/icones/social-media-campaign-svgrepo-com\ \(1\).svg);
+}
+
+.bx-slideshow:hover:before {
+    background-color: #df9eff;
+}
+
+.bx-arch::before {
+    content: url(../img/icones/seo-maintenance-svgrepo-com.svg);
+}
+.bx-arch:hover::before {
+    background-color: #ffb98c;
+}
